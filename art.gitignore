@@ -1,0 +1,18 @@
+# virtual environment
+venv/
+.env
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database / secrets
+*.sqlite3
