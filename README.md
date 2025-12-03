@@ -10,4 +10,4 @@
 
 Admin login (sample included):
 - username: admin
-- password: RakshMahi@9876
+- password: admin123
